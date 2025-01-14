@@ -13,9 +13,6 @@ Welcome to the Quiz App! This application is designed to provide an interactive 
 - [License](#license)
 - [Contact](#contact)
 
-## Demo
-
-Check out the live demo of the Quiz App [here](https://quizy-yusha.vercel.app/).
 
 ## Features
 
@@ -51,7 +48,7 @@ Ensure you have the following installed:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yusha0123/Quiz-App.git
+   git clone https://github.com/SahilKishor21/BrainBuzz
    ```
 2. Navigate to the project directory
    ```sh
@@ -102,8 +99,3 @@ Contributions are what make the open source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Yusha Tahlil - [LinkedIn](https://www.linkedin.com/in/yusha-tahlil/)
-Project Link: [https://github.com/yusha0123/Quiz-App](https://github.com/yusha0123/Quiz-App)
